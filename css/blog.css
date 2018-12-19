@@ -30,6 +30,7 @@ h1, h2, h3, h4, h5, h6 {
 .jumbotron-img {
   background: url("../img/crusty.png") no-repeat center center;
   background-size: cover;
+  min-height: 550px;
 }
 
 .nav-scroller {
